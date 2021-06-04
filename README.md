@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Demo
 [![Alt text](https://img.youtube.com/vi/lXk14qt2D28/0.jpg)](https://www.youtube.com/watch?v=lXk14qt2D28)
 
@@ -37,3 +38,6 @@ npm run start
 ```
 
 Access the web app at http://localhost:3000/
+=======
+# sarthaksaraswat2502.github.io
+>>>>>>> parent of ec8898f (bags)
